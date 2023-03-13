@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+section {
+    color: wheat;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(139, 15, 81, 0.532);
+}
